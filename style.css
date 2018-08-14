@@ -1,0 +1,23 @@
+
+#trainTable {
+    border-color: blue;
+}
+
+body {
+    background-image: url("../../Downloads/aerial-android-wallpaper-architectural-design-373912.jpg");
+    background-size: 100%;
+
+}
+
+#mainContainer {
+    background-color:white;
+    padding: 0px;
+}
+
+#trainTable {
+    padding: 20px;
+}
+
+#container2 {
+    padding-bottom: 20px;
+}
